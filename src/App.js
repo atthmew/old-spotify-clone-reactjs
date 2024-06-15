@@ -8,6 +8,7 @@ import Spotify from './components/Spotify';
 
 function App(props) {
 	// useStateProvider ay custom hook na ginawa natin para makuha yung mga data sa state easily without using props.
+	console.log(process.env.REACT_APP_REDIRECTED_URL);
 	const [{ token }, dispatch] = useStateProvider();
 	useEffect(() => {
 		const hash = window.location.hash;

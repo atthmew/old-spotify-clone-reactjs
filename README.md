@@ -6,10 +6,10 @@
 
 <p align="center">
   <!-- <img alt="Project Top Language" src="https://img.shields.io/badge/98.2%25-yellow?style=for-the-badge&logo=javascript&label=JavaScript&labelColor=black"> -->
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/atthmew/movieit-react?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/atthmew/movieit-react?style=for-the-badge">
-  <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/movieit-react?style=for-the-badge">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/atthmew/movieit-react?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/atthmew/old-spotify-clone-reactjs?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/atthmew/old-spotify-clone-reactjs?style=for-the-badge">
+  <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/old-spotify-clone-reactjs?style=for-the-badge">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/atthmew/old-spotify-clone-reactjs?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 ## 📱 About this Project
 
 <p align="center">
-<img alt="Discord logo" src="https://github.com/atthmew/movieit-react/blob/main/screenshots/movieit1.png" height="350px" width="400px" /> 
-<img alt="Discord logo" src="https://github.com/atthmew/movieit-react/blob/main/screenshots/movieit2.png" height="350px" width="400px" /> 
+<img alt="Discord logo" src="https://github.com/atthmew/old-spotify-clone-reactjs/blob/main/screenshots/spot1.png" height="350px" width="400px" /> 
+<img alt="Discord logo" src="https://github.com/atthmew/old-spotify-clone-reactjs/blob/main/screenshots/spot2.png" height="350px" width="400px" /> 
 <br/>
   <button>
     <a href="https://atthmew.github.io/movieit-react"> 

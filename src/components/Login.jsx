@@ -5,7 +5,7 @@ export default function Login(props) {
 	const handleClick = () => {
 		console.log(process.env.REDIRECTED_URL);
 		const clientId = '5f4cdf9482ff413faca518ad6c2424b0';
-		const redirectUrl = 'https://atthmew.github.io/old-spotify-clone-reactjs/';
+		const redirectUrl = 'https://atthmew.github.io/old-spotify-clone-reactjs';
 		const apiUrl = 'https://accounts.spotify.com/authorize';
 		const scope = [
 			'user-read-email',

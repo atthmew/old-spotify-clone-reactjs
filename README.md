@@ -57,11 +57,11 @@ Technologies that I used to develop the app
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/atthmew/mov-i-e-it.git
+git clone https://github.com/atthmew/old-spotify-clone-reactjs.git
 ```
 
 ```bash
-cd mov-i-e-it
+cd old-spotify-clone-reactjs
 ```
 
 #### Step 2: Install Dependencies
@@ -71,6 +71,10 @@ Open a new terminal window , and run the following command to install the fronte
 ```bash
 npm install
 ```
+
+#### Step 2.1: Change URL
+
+Navigate to src\components\Login.jsx and change the `redirectUrl` into `http://localhost:3000`
 
 #### Step 3: Run the Frontend Server
 

@@ -29,8 +29,8 @@
 <img alt="Discord logo" src="https://github.com/atthmew/old-spotify-clone-reactjs/blob/main/screenshots/spot2.png" height="350px" width="400px" /> 
 <br/>
   <button>
-    <a href="https://atthmew.github.io/movieit-react"> 
-      <img alt="Mov(i)e-It" src="https://img.shields.io/badge/Mov(i)e It-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
+    <a href="https://atthmew.github.io/old-spotify-clone-reactjs"> 
+      <img alt="Spotify" src="https://img.shields.io/badge/Spotify-white?style=for-the-badge&labelColor=red"/>
     </a>
   </button>
 </p>
@@ -44,6 +44,7 @@ Technologies that I used to develop the app
 - [ReactJS](https://react.dev/)
 - [React-Router-Dom](https://reactrouter.com/en/main)
 - [React-Icons](https://github.com/wwayne/react-tooltip)
+- [Spotify-API](https://developer.spotify.com/documentation/web-api)
 - [VS Code](https://code.visualstudio.com) with [Prettier RC](https://github.com/prettier/prettier)
 
 ## 👨🏼‍💻 Getting Started
